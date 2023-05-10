@@ -1,13 +1,13 @@
-package com.teamOne.healthApi;
+package com.equipoUno.proyectoSalud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HealthApiApplication {
+public class ProyectoSaludApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HealthApiApplication.class, args);
+		SpringApplication.run(ProyectoSaludApplication.class, args);
 	}
 
 }

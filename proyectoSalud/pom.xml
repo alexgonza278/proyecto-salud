@@ -8,10 +8,10 @@
 		<version>2.7.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.teamOne</groupId>
-	<artifactId>healthApi</artifactId>
+	<groupId>com.equipoUno</groupId>
+	<artifactId>proyectoSalud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>healthApi</name>
+	<name>proyectoSalud</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

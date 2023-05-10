@@ -1,4 +1,4 @@
-package com.teamOne.healthApi.entities;
+package com.equipoUno.proyectoSalud.entities;
 
 import org.hibernate.annotations.GenericGenerator;
 

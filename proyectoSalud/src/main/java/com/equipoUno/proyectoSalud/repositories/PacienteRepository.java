@@ -1,6 +1,6 @@
-package com.teamOne.healthApi.repositories;
+package com.equipoUno.proyectoSalud.repositories;
 
-import com.teamOne.healthApi.entities.Paciente;
+import com.equipoUno.proyectoSalud.entities.Paciente;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
